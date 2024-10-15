@@ -24,4 +24,4 @@ Homepage with data and input fields.
 
 ![](screenshot/front.png)
 
-See code <a href="https://github.com/veronikagregorec/react-form/tree/main/src">here</a>
+See code <a href="https://github.com/veronikagregorec/react-application-form/tree/main/src">here</a>
